@@ -10,6 +10,12 @@ It also includes a **manual control option** for flexibility.
 
 
 
+
+
+
+
+
+
 <img width="396" height="504" alt="rs2_iso" src="https://github.com/user-attachments/assets/48f9b4b0-a73f-4e62-8ed2-c9d7e7285529" />
 
 ---
